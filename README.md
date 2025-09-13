@@ -30,4 +30,4 @@ Data-Structures-Algorithms/
 └── README.md                    # Project documentation
 ```
 
-Each folder contains problems, solutions, and explanations related to its topic. For example, `Basic Maths Logic/CountDigits.ipynb` demonstrates how to count digits in a number using Python.
+Each folder contains problems, solutions, and explanations related to its topic.
