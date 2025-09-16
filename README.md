@@ -7,7 +7,7 @@ Data Structures Algorithms in Python
 Data-Structures-Algorithms/
 ├── Array/                       # Problems and solutions related to arrays
 ├── Array 2D/                    # Problems and solutions for 2D arrays
-├── Basic Maths Logic/           # Basic math logic problems
+├── Maths Logic/                 # Basic math logic problems
 ├── Binary Search/               # Binary search algorithm implementations
 ├── Binary Search Trees/         # Binary search tree problems and solutions
 ├── Binary Trees/                # Binary tree problems and solutions
