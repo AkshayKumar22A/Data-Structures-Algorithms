@@ -21,7 +21,19 @@ Welcome to the **Data Structures & Algorithms in Python** repository! This proje
 
 ## About
 
-This repository contains Python implementations of popular data structures and algorithms, along with explanations, dry runs, edge case analysis, and time/space complexity breakdowns. Each topic is organized in its own folder, and many problems include Jupyter notebooks for interactive learning.
+This repository contains Python implementations of popular data structures and algorithms, with:
+- Detailed explanations for each problem
+- Step-by-step dry runs
+- Edge case and complexity analysis
+- Jupyter notebooks for interactive learning
+Each notebook and solution follows a consistent format:
+1. **Problem Statement**
+2. **Intuition and Approach**
+3. **Code Explanation in Details**
+4. **Dry Run**
+5. **Edge Cases**
+6. **Time and Space Complexity**
+This helps you understand not just the code, but the reasoning and trade-offs behind each solution.
 
 ---
 
@@ -61,15 +73,16 @@ Each folder contains:
 - Edge case analysis
 - Time and space complexity
 - Jupyter notebooks (for interactive problems)
+All explanations are provided as markdown cells in notebooks, making it easy to follow the logic and reasoning step-by-step.
 
 ---
 
 ## How to Use
 
 1. **Browse Topics:** Navigate to the folder of interest (e.g., `Dynamic Programming/`, `Graphs/`).
-2. **Read Explanations:** Open the README or notebook in each folder for problem statements, intuition, and detailed solutions.
-3. **Run Code:** Use Python files or Jupyter notebooks to run and experiment with solutions.
-4. **Practice:** Try solving problems yourself before checking the provided solutions.
+2. **Read Explanations:** Open the Jupyter notebook in each folder for problem statements, intuition, and detailed solutions.
+3. **Run Code:** Use Jupyter notebooks to run and experiment with solutions interactively.
+4. **Practice:** Try solving problems yourself before checking the provided solutions and explanations.
 
 ---
 
@@ -101,8 +114,8 @@ Each folder contains:
 Contributions are welcome! If you have new problems, improved solutions, or better explanations, feel free to submit a pull request. Please follow these guidelines:
 
 - Add clear problem statements and comments in code.
-- Include explanations, dry runs, and edge case analysis.
-- Update the relevant folder README or notebook.
+- Include explanations, dry runs, edge case analysis, and complexity analysis in markdown cells.
+- Update the relevant folder notebook or README.
 - Ensure code is well-formatted and tested.
 
 ---
