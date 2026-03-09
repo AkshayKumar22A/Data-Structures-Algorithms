@@ -55,12 +55,11 @@ Data-Structures-Algorithms/
 ├── LinkedList/                  # Linked list problems
 ├── Maths Logic/                 # Math-based problems
 ├── Python Basics/               # Python fundamentals
-├── Queue/                       # Queue data structures
-├── Recursion/                   # Recursion problems & notebooks
+├── Recursion and Backtracking/  # Recursion problems & notebooks
 ├── Searching/                   # Searching algorithms
 ├── Sliding Window and Two Pointers/ # Sliding window/two pointer techniques
 ├── Sorting/                     # Sorting algorithms
-├── Stack/                       # Stack data structures
+├── Stack and Queue/             # Stack and Queue data structures
 ├── Strings/                     # String manipulation
 ├── Tries/                       # Trie data structures
 └── README.md                    # Project documentation
