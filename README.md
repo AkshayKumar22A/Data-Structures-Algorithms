@@ -119,12 +119,6 @@ Contributions are welcome! If you have new problems, improved solutions, or bett
 
 ---
 
-## License
-
-This repository is licensed under the MIT License. See [LICENSE](LICENSE) for details.
-
----
-
 ## Contact
 
 For questions, suggestions, or feedback, please open an issue or contact the repository owner.
