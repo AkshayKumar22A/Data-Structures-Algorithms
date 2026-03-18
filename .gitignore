@@ -209,3 +209,5 @@ __marimo__/
 # Ignore SD_Store File
 .DS_Store
 **/.DS_Store
+
+.ipynb_checkpoints/
